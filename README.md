@@ -16,6 +16,6 @@ Features:-
 6. It can shut down the system with our permission.
 7. Send SOS message and fetch location using IP address.
 8. User can give their input by speech or by typing manually.
-9. Performs some ML operations like: display columns and rows, sort column data, display summary statistics etc.
+9. Performs some basic ML operations like: display columns and rows, sort column data, display summary statistics etc.
     
     Note: A link to .csv file required to perform ML operations.
