@@ -1,7 +1,10 @@
 # AI-Assistant-Version-1-
 Hey everyone!
+
 I have made an Advance AI Desktop Assistant.
+
 The main features are distributed among different files so it can work efficiently.
+
 The main file of this project is "Jarvis.py", by executing this file you can use all the features of this AI Desktop Assistant.
 
 Features:-
@@ -15,4 +18,5 @@ Features:-
 8. It can shut down the system with our permission.
 9. User can give their input by speech or by typing manually.
 10. Performs some ML operations like: display columns and rows, sort column data, display summary statistics etc.
+    
     Note: A link to .csv file required to perform ML operations.
